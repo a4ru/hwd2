@@ -14,6 +14,7 @@ onload = () => {
         setTimeout(appendTitle, 300); // 1000ms delay
       }
     }
+    
 
     appendTitle();
 
